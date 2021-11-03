@@ -3,4 +3,4 @@
   metadata:
     labels:
       tenant: tenant-b
-    name: tenant-b-topic-dev
+    name: tenant-b-topic-prod
